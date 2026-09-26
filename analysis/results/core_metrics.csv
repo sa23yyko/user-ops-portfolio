@@ -1,0 +1,2 @@
+﻿data_status,registered_users,activated_users,activation_rate_pct,d1_users,d1_rate_pct,d7_users,d7_rate_pct,day0_complete_users,day0_complete_rate_pct,churn_flag_users,reactivate_users,churn_and_reactivate_users,ordered_reactivate_users,flagged_reactivation_rate_pct,strict_funnel_d7_users,d1_and_d7_users,d7_among_d1_rate_pct,d7_without_d1_users,d7_observable_users
+模拟数据 / 独立项目,1000,715,71.5,451,45.1,237,23.7,595,59.5,171,65,65,65,38.01,214,214,47.45,23,1000

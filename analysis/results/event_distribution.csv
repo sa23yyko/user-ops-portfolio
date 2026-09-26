@@ -1,0 +1,7 @@
+﻿data_status,event_type,event_rows,distinct_users
+模拟数据 / 独立项目,churn_flag,171,171
+模拟数据 / 独立项目,complete_task,1769,672
+模拟数据 / 独立项目,open_app,1931,474
+模拟数据 / 独立项目,reactivate,65,65
+模拟数据 / 独立项目,register,1000,1000
+模拟数据 / 独立项目,start_learning,2370,715
